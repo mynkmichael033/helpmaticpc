@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpmaticpc.readthedocs.io/en/latest/
