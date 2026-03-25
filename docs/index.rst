@@ -88,3 +88,8 @@ Conclusion
 ----------
 
 PC Matic provides a comprehensive solution for securing and optimizing computers. By following this guide, users can install, configure, and maintain PC Matic effectively, ensuring a safe and smooth computing experience.
+
+Disclaimer
+----------
+
+Please note that this article is provided for informational purposes only. We are a third-party independent service provider and are not affiliated with PC Matic. Any issues related to your PC Matic account, including installation, subscription, or software-specific problems, should be directed to PC Matic’s official support team. We do not represent or endorse PC Matic and are not responsible for resolving any account-specific problems directly.
